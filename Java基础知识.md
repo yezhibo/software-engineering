@@ -1,8 +1,8 @@
 # 一、Java 基本程序设计结构
 ## 1.8种基本数据类型
-整型：byte(1字节 8bit)、short(2字节 16bit)、int(4字节 32bit)、long(8字节 64bit)\<br>
-浮点型：float(4字节)、double(8字节)\<br>
-字符型：char(2字节)\<br>
+整型：byte(1字节 8bit)、short(2字节 16bit)、int(4字节 32bit)、long(8字节 64bit)<br>
+浮点型：float(4字节)、double(8字节)<br>
+字符型：char(2字节)<br>
 布尔型：boolean
 ## 2.运算符和变量
 ## 3.字符串
