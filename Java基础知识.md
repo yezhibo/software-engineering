@@ -34,10 +34,25 @@ equals()
 空串""是长度为0的字符串<br>
 null是一个特殊值，表示目前没有任何对象与该变量关联。
 ## 4.输入输出
-
+### 输入
+通过创建Scanner对象来获取控制台输入流;<br>
+常用方法： nextLine()读取下一行、next()读取下一个单词以空格为分隔符、nextDouble()读取下一个浮点数、nextInt()读取下一个整数、hasNext()判断是否还有其他单词<br>
+### 输出
+System.out.printf("",x);<br>
 ## 5.控制流程
+switch case语句，case标签可以是：<br>
+类型为char、byte、short或者int表达式
+枚举常量
+从javase7开始支持字符串字面量
 ## 6.大数值
+BigInteger
+BigDecimal
 ## 7.数组
+int[] a = new int[100]; 数组在定义时需要给出数组的长度。<br>
+int[] a = {1,2,3,4,5,6,7,8}; 初始化数组。<br>
+a = new int[]{1,2,3,4,5,6,7,8};<br>
+Arrays类是对数组进行操作的类<br>
+for(variable : colection) statement;
 # 二、对象与类
 
 # 三、继承
